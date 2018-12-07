@@ -1,3 +1,6 @@
 firebase_admin
 flask
 flask_restful
+
+gunicorn
+eventlet
